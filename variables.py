@@ -1,4 +1,4 @@
-employee_name="John"
+employee_name="John"  # snake case
 color_of_eye="blue"
 print(color_of_eye)
 print(111)
