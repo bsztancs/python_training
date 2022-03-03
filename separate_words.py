@@ -12,3 +12,6 @@ def conc_words(words):
     return result
 
 print(conc_words(["a", "b", "c"]))
+
+
+
