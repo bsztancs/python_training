@@ -10,5 +10,3 @@ print(names[1])
 names[1] = "Másik"
 
 print(names[1])
-
-def name_filters_by_John()
